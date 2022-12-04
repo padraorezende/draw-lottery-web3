@@ -12,7 +12,6 @@ import Header from './components/Header'
 import Loading from './components/Loading'
 import Login from './components/Login'
 
-
 const Home: NextPage = () => {
 
   const address = useAddress()
